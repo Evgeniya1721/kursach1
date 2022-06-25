@@ -1,0 +1,16 @@
+DEBUG:root:debug message
+INFO:root:info message
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.vk.com:443
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "GET /method/photos.get?user_id=7578543&access_token=a67f00c673c3d4b12800dd0ba29579ec56d804f3c5f3bbcef5328d4b3981fa5987b951cf2c8d8b24b9abd&v=5.131&album_id=profile&extended=1&photo_sizes=1&count=5 HTTP/1.1" 200 677
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cloud-api.yandex.net:443
+DEBUG:urllib3.connectionpool:https://cloud-api.yandex.net:443 "PUT /v1/disk/resources/?path=kursach&url=https%3A%2F%2Fcloud-api.yandex.net%2Fv1%2Fdisk%2Fresources%2F HTTP/1.1" 201 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cloud-api.yandex.net:443
+DEBUG:urllib3.connectionpool:https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=%2Fkursach%2F2&url=https%3A%2F%2Fsun9-82.userapi.com%2Fc10332%2Fu7578543%2F-6%2Fx_1bc34f6e.jpg HTTP/1.1" 202 155
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cloud-api.yandex.net:443
+DEBUG:urllib3.connectionpool:https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=%2Fkursach%2F3&url=https%3A%2F%2Fsun9-23.userapi.com%2Fc9672%2Fu7578543%2F-6%2Fy_8568c98d.jpg HTTP/1.1" 202 156
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cloud-api.yandex.net:443
+DEBUG:urllib3.connectionpool:https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=%2Fkursach%2F23&url=https%3A%2F%2Fsun9-59.userapi.com%2Fc5676%2Fu7578543%2F-6%2Fx_2290df25.jpg HTTP/1.1" 202 156
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cloud-api.yandex.net:443
+DEBUG:urllib3.connectionpool:https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=%2Fkursach%2F22&url=https%3A%2F%2Fsun9-85.userapi.com%2Fc5676%2Fu7578543%2F131406742%2Fz_f8a7fcd0.jpg HTTP/1.1" 202 156
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cloud-api.yandex.net:443
+DEBUG:urllib3.connectionpool:https://cloud-api.yandex.net:443 "POST /v1/disk/resources/upload?path=%2Fkursach%2F27&url=https%3A%2F%2Fsun9-34.userapi.com%2Fc11165%2Fu24763447%2F133518124%2Fy_e74737db.jpg HTTP/1.1" 202 156
